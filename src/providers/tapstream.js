@@ -5,7 +5,7 @@ module.exports = Provider.extend({
 
   name : 'Tapstream',
 
-  key : 'appName',
+  key : 'accountName',
 
   defaults : {
     accountName : null,
